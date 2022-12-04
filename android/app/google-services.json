@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148717895205",
+    "project_id": "artificia-app",
+    "storage_bucket": "artificia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148717895205:android:1024040b6f42a6f33649cc",
+        "android_client_info": {
+          "package_name": "com.nishan.mydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148717895205-ln06jlas8in26gbnqmkr37d68ve7cnoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPw7kA0sPurMMvquc1g3KjSmxzYOpkzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148717895205-ln06jlas8in26gbnqmkr37d68ve7cnoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
